@@ -9,9 +9,9 @@ Evaluation: Includes performance metrics such as accuracy and loss visualization
  # Structure of the Notebook
 This section outlines how the notebook is organized:
 Introduction: A brief overview of the dataset and problem.
-Data Loading: Code to load and visualize the Fashion MNIST dataset.
-Preprocessing: Steps like normalizing pixel values and reshaping data for compatibility with the CNN.
-Model Creation: Design and configure a CNN using TensorFlow/Keras.
-Training: Train the model on the dataset, tuning parameters like learning rate and epochs.
-Evaluation: Measure performance and visualize metrics like accuracy.
-Results: Analyze and present the outcomes of the model.
+ Data Loading: Code to load and visualize the Fashion MNIST dataset.
+ Preprocessing: Steps like normalizing pixel values and reshaping data for compatibility with the CNN.
+ Model Creation: Design and configure a CNN using TensorFlow/Keras.
+ Training: Train the model on the dataset, tuning parameters like learning rate and epochs.
+ Evaluation: Measure performance and visualize metrics like accuracy.
+ Results: Analyze and present the outcomes of the model.
